@@ -1,0 +1,6 @@
+{
+  "name": "Hayuk!",
+  "description": "Official Foodcourt App by Hayuk! Group. One Place, Many Flavors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
